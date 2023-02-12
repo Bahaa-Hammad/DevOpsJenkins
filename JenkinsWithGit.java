@@ -5,6 +5,7 @@ public class JenkinsWithGit{
         for (int i = 3; i <256; i++, charPerLine++){
         System.out.println((char)i);
         System.out.println();
+        System.out.println("After Jenkins");
 
         }
 }
